@@ -1,0 +1,27 @@
+body{
+    background-color: #DA1C30;
+}
+.title {
+    color: #ffff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Nixie One';
+    font-size: 130px;
+    padding-bottom: 0;
+    margin: 0;
+    font-weight: 400;
+
+}
+.sub-title {
+    padding: 0%;
+    margin-top: 0%;
+    text-decoration: dotted;
+    color: #ffff;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: 200;
+}
